@@ -1,4 +1,3 @@
-module adams549659584/go-proxy-bingai
 module imldy/go-proxy-bingai
 
 go 1.20
