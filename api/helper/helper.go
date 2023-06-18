@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"adams549659584/go-proxy-bingai/common"
+	"imldy/go-proxy-bingai/common"
 	"encoding/json"
 	"net/http"
 )
